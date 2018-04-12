@@ -10,3 +10,6 @@ ZCZC W03 try to learn
 ZCZC W04 telat
 
 ZCZC W05 done
+
+ZCZC W06 telat
+
