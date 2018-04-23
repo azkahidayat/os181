@@ -15,3 +15,5 @@ ZCZC W06 telat
 
 ZCZC W07 done
 
+ZCZC W08 done
+
